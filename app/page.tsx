@@ -130,7 +130,7 @@ export default function FitnessTracker() {
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-slate-900 to-slate-700 bg-clip-text text-transparent">
                   AI Fitness Tracker
                 </h1>
-                <p className="text-sm text-slate-600 font-medium">Powered by Ganpat University</p>
+                <p className="text-sm text-slate-600 font-medium">Powered by Maharshi Battina</p>
               </div>
             </div>
             <div className="hidden md:flex items-center gap-6">
