@@ -261,21 +261,21 @@ export default function FitnessTracker() {
             {[
               {
                 name: "Extra Trees",
-                accuracy: 91,
+                accuracy: 92,
                 description: "Ensemble method",
                 color: "bg-orange-500",
                 rating: "Excellent",
               },
               {
                 name: "Naive Bayes",
-                accuracy: 71,
+                accuracy: 92,
                 description: "Probabilistic classifier",
                 color: "bg-blue-500",
                 rating: "Fair",
               },
               {
                 name: "Neural Network",
-                accuracy: 90,
+                accuracy: 93,
                 description: "Multi-layer perceptron",
                 color: "bg-purple-500",
                 rating: "Good",
@@ -289,7 +289,7 @@ export default function FitnessTracker() {
               },
               {
                 name: "Support Vector Machine",
-                accuracy: 90,
+                accuracy: 93,
                 description: "Advanced classification",
                 color: "bg-cyan-500",
                 rating: "Good",
