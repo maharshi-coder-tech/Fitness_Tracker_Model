@@ -268,7 +268,7 @@ export default function FitnessTracker() {
               },
               {
                 name: "Naive Bayes",
-                accuracy: 92,
+                accuracy: 71,
                 description: "Probabilistic classifier",
                 color: "bg-blue-500",
                 rating: "Fair",
